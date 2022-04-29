@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sergio_lopez_soriano
-- 👀 I’m interested in robotics, machine learning and electromagnetics
-- 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on projects mixing robotics with IoE and machine learning.
+- 👀 I’m interested in IoT, robotics, artificial intelligence and electromagnetics
+- 🌱 I’m currently doing research on IoT, antenna design and robotics.
+- 💞️ I’m looking to collaborate on projects mixing robotics with IoT and artificial intelligence.
 - 📫 How to reach me: <lopsorse@gmail.com>
 
 <!---
