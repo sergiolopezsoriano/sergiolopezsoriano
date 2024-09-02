@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate telecommunication engineer with a focus on passive sensor systems and antenna design. I love finding solutions to solve real-world problems. I'm always keen to learn new technologies and improve my skills.
 
-- 🌱 Currently learning project 
+- 🌱 Constantly learning new skills
 - 👯 Looking to collaborate on development of Ambient Internet of Things technologies
 - 📝 Check out my latest scientific contributions:
   [Inventory Robots 1](https://openaccess.uoc.edu/bitstream/10609/148027/1/lopez_ieeesj_inventory.pdf)
