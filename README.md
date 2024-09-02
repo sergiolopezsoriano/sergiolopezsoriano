@@ -1,16 +1,33 @@
-👋 Hi, I’m @sergio_lopez_soriano, PhD
+# Hi there 👋, I'm Sergio López Soriano, PhD
 
+## 🚀 About Me
+I'm a passionate telecommunication engineer with a focus on passive sensor systems and antenna design. I love finding solutions to solve real-world problems. I'm always keen to learn new technologies and improve my skills.
+
+- 🌱 Currently learning project 
+- 👯 Looking to collaborate on development of Ambient Internet of Things technologies
+- 📝 Check out my latest scientific contributions:
+  [Inventory Robots 1](https://openaccess.uoc.edu/bitstream/10609/148027/1/lopez_ieeesj_inventory.pdf)
+  [Inventory Robots 2](https://openaccess.uoc.edu/bitstream/10609/148804/1/lopez_IEEEiot_plug.pdf)
+  [UHF RFID Wristbands](https://openaccess.uoc.edu/bitstream/10609/150413/1/Lopez_ieeea_Wristbands.pdf)
+
+## 📝 Biography
 I received the M.Sc. degree in Micro and Nanoelectronics Engineering and the Ph.D. degree in Electronics and Telecommunication Engineering from the Universitat Autonoma de Barcelona (UAB), Bellaterra, Spain, in 2013 and 2018 respectively. I have conducted research stays at the Pervasive Electromagnetics Lab of the Università degli studi di Roma “Tor Vergata” (2015-2016) and at the Esisar research center of the Grenoble-INP (France), as a postdoctoral researcher within the European ScattererID project (2018-2019). From 2019 to 2022, I enrolled the Ubiquitous computing Lab at the Universitat Pompeu Fabra as an project researcher in robotics. I am currently a Senior Postdoctoral Researcher at the WiNe group of the Universitat Oberta de Catalunya. I also work as an Associate Lecturer at the Universitat Autonoma de Catalunya. 
- 
-👀 I’m interested in the broad adoption of passive sensors. 
 
-🌱 I’m currently doing research on the integration of Ambient Internet of Things in 5G NR networks.
+I'm driven by a passion for engineering and am always looking for new challenges that allow me to leverage my skills while learning something new. When I'm not coding, you can find me playing guitar, singing or roller blading.
 
-💞️ I’m looking for industrial partners in the telecommunications sector.
+## 🛠️ Skills & Tools
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  
+- **Tools:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-📫 How to reach me: <lopsorse@gmail.com>
+## 📈 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolopezsoriano&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolopezsoriano&layout=compact&theme=radical)
 
-<!---
-sergiolopezsoriano/sergiolopezsoriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 How to reach me
+- LinkedIn: [Sergio López-Soriano](https://www.linkedin.com/in/sergio-lópez-soriano-2a581049/)
+- Twitter: [@_53r61_](https://x.com/_53r61_)
+- Email: [lopsorse@gmail.com](mailto:lopsorse@gmail.com)
+- Web: [UOC profile](https://talent.uoc.edu/ca/sergio-lopez-soriano.html)
